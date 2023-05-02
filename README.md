@@ -1,2 +1,2 @@
 # SmartSystems
-C++ Code für das SmartSystems-Projekt
+Python Code für das SmartSystems-Projekt
